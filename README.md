@@ -24,7 +24,7 @@ Follow this four step process, to excecute this task. Good luck!
 
 ## Submission
 
-* Add ```test123``` as a contributer to the ```File-Explorer-Gui`` repository. Make sure you do this, once you're satisfied with your code.
+* Add ```test123``` as a contributer to the ```File-Explorer-Gui``` repository. Make sure you do this, once you're satisfied with your code.
 * What to do after adding ```test123``` as a collaborator? Nothing! Just wait for us to evaluate. :)
 * The time this account has been added as a contributer will be the time of submission.
 * Make sure the submission is done before 3pm **IST**, else it will not be counted.
